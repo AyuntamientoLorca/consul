@@ -3,3 +3,8 @@
 # * English: https://github.com/consul/consul/blob/master/CUSTOMIZE_EN.md#gemfile
 # * Spanish: https://github.com/consul/consul/blob/master/CUSTOMIZE_ES.md#gemfile
 #
+gem "pronto", "~> 0.11.0"
+gem "pronto-erb_lint", "~> 0.1.5"
+gem "pronto-eslint", "~> 0.11.0"
+gem "pronto-rubocop", "~> 0.11.0"
+gem "pronto-scss", "~> 0.11.0"
