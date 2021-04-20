@@ -2,5 +2,4 @@ es:
   layouts:
     footer:
       copyright: Ayuntamiento de Lorca, %{year}
-    header:
-      collaborative_legislation: Procesos participativos
+      
