@@ -9,8 +9,14 @@
     font-size: 0.875rem;
     padding-right: 0.75rem;
 }
-.gradient{
+.home-page .figure-card .gradient, .custom-page .figure-card .gradient {
     background: none;
+    background: none;
+    background: none;
+    height: 100%;
+    position: absolute;
+    width: 100%;
+    z-index: 2;
 }
 header {
     background: #DC505B;
